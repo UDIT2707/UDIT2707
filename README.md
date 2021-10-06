@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UDIT_SENGAR
 - 👀 I’m interested in exploring new ideas
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning coding 
+- 💞️ I have learned digital marketing also i'm a crypto trader 
 - 📫 How to reach me uditcs3836@gmail.com
 
 <!---
