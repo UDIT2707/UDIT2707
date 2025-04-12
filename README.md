@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @UDIT_SENGAR
 - 👀 I’m interested in exploring new ideas
 - 🌱 DSA is love
-- 💞️ Machine learning enthusiast
+- 💞️  GEN-AI enthusiast
+- Full Stack Developer
 - 📫 How to reach me uditcs3836@gmail.com
 
 <!---
